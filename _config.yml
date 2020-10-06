@@ -3,3 +3,5 @@ description: A generative dictionary approach to lexical semantics.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
