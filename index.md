@@ -29,7 +29,7 @@ We are currently working to release software and reproduction materials. Stay tu
 
 ## Authors
              
-<img src="https://sapienzanlp.github.io/babelpic/imgs/calabrese.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" width="150" height="150"> 
+<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/calabrese.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" width="150" height="150"> 
 [Michele Bevilacqua](https://mbevila.github.io) | [Marco Maru](https://phd.uniroma1.it/web/MARU-MARCO_nP1135442_EN.aspx) | [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/)
 [@MicheleBevila20](https://twitter.com/MicheleBevila20) | [@MarcoMaru3](https://twitter.com/MarcoMaru3)  |[@rnavigli](https://twitter.com/rnavigli) 
 
