@@ -9,7 +9,7 @@ Our work is a **unified approach** to computational lexical-semantic tasks, enco
 
 To learn more, read our paper:
 
-Michele Bevilacqua, Marco Maru, and Roberto Navigli. 2020. [Generationary or: “How We Went beyond Sense Inventories and Learned to Gloss”.](main/res/EMNLP2020-Generationary.pdf) *Proceedings of EMNLP*.
+Michele Bevilacqua, Marco Maru, and Roberto Navigli. 2020. [Generationary or: “How We Went beyond Sense Inventories and Learned to Gloss”.](res/EMNLP2020-Generationary.pdf) *Proceedings of EMNLP*.
 
 ## Data and Software (Work in Progress!)
 We are currently working to release software and reproduction materials. Stay tuned!
