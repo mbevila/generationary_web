@@ -30,11 +30,7 @@ We are currently working to release software and reproduction materials. Stay tu
 ```
 
 ## Authors
-             
-<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/calabrese.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" width="150" height="150"> 
-[Michele Bevilacqua](https://mbevila.github.io) | [Marco Maru](https://phd.uniroma1.it/web/MARU-MARCO_nP1135442_EN.aspx) | [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/)
-[@MicheleBevila20](https://twitter.com/MicheleBevila20) | [@MarcoMaru3](https://twitter.com/MarcoMaru3)  |[@rnavigli](https://twitter.com/rnavigli)
-
+        
 <table align="center">
 <tr>
 	<td>
@@ -49,24 +45,24 @@ We are currently working to release software and reproduction materials. Stay tu
 </tr>
 <tr>
 	<td>
-		[Michele Bevilacqua](https://mbevila.github.io)
+		<a href="https://mbevila.github.io">Michele Bevilacqua</a>
 	</td>  
 	<td>
-		[Marco Maru](https://phd.uniroma1.it/web/MARU-MARCO_nP1135442_EN.aspx)
+		<a href="https://phd.uniroma1.it/web/MARU-MARCO_nP1135442_EN.aspx">Marco Maru</a>
 	</td>
 	<td>
-		[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/)
+		<a href="http://wwwusers.di.uniroma1.it/~navigli/">Roberto Navigli</a>
 	</td>
 </tr>
 <tr>
 	<td>
-		[@MicheleBevila20](https://twitter.com/MicheleBevila20)
+		<a href="https://twitter.com/MicheleBevila20"></a>
 	</td>  
 	<td>
-		[@MarcoMaru3](https://twitter.com/MarcoMaru3)
+		<a href="https://twitter.com/MarcoMaru3">@MarcoMaru3</a>
 	</td>
 	<td>
-		[@rnavigli](https://twitter.com/rnavigli)
+		<a href="https://twitter.com/rnavigli">@rnavigli</a>
 	</td>
 </tr> 
 </table>
