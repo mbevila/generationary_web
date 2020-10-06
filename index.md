@@ -33,7 +33,43 @@ We are currently working to release software and reproduction materials. Stay tu
              
 <img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/calabrese.jpg" width="150" height="150"> | <img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" width="150" height="150"> 
 [Michele Bevilacqua](https://mbevila.github.io) | [Marco Maru](https://phd.uniroma1.it/web/MARU-MARCO_nP1135442_EN.aspx) | [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/)
-[@MicheleBevila20](https://twitter.com/MicheleBevila20) | [@MarcoMaru3](https://twitter.com/MarcoMaru3)  |[@rnavigli](https://twitter.com/rnavigli) 
+[@MicheleBevila20](https://twitter.com/MicheleBevila20) | [@MarcoMaru3](https://twitter.com/MarcoMaru3)  |[@rnavigli](https://twitter.com/rnavigli)
+
+<table align="center">
+<tr>
+	<td>
+		<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150">
+	</td>  
+	<td>
+		<img src="https://sapienzanlp.github.io/babelpic/imgs/calabrese.jpg" width="150" height="150"> 
+	</td>
+	<td>
+		<img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" width="150" height="150">
+	</td>
+</tr>
+<tr>
+	<td>
+		[Michele Bevilacqua](https://mbevila.github.io)
+	</td>  
+	<td>
+		[Marco Maru](https://phd.uniroma1.it/web/MARU-MARCO_nP1135442_EN.aspx)
+	</td>
+	<td>
+		[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/)
+	</td>
+</tr>
+<tr>
+	<td>
+		[@MicheleBevila20](https://twitter.com/MicheleBevila20)
+	</td>  
+	<td>
+		[@MarcoMaru3](https://twitter.com/MarcoMaru3)
+	</td>
+	<td>
+		[@rnavigli](https://twitter.com/rnavigli)
+	</td>
+</tr> 
+</table>
 
 ## Acknowledgements
 The authors gratefully acknowledge the support of the [ERC Consolidator Grant MOUSSE No. 726487](http://mousse-project.org/) under the European Union's Horizon 2020 research and innovation programme.
