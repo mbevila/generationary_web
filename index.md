@@ -56,7 +56,7 @@ We are currently working to release software and reproduction materials. Stay tu
 </tr>
 <tr>
 	<td>
-		<a href="https://twitter.com/MicheleBevila20"></a>
+		<a href="https://twitter.com/MicheleBevila20">@MicheleBevila20</a>
 	</td>  
 	<td>
 		<a href="https://twitter.com/MarcoMaru3">@MarcoMaru3</a>
