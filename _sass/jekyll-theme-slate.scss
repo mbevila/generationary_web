@@ -283,11 +283,11 @@ Full-Width Styles
 
 #header_wrap {
   background: #106B21;
-  background: -moz-linear-gradient(top, #373737, #212121);
+  /* background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(to top, #373737, #212121);
+  background: linear-gradient(to top, #373737, #212121); */
 }
 
 #header_wrap .inner {
@@ -349,6 +349,7 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat top right;
 }
 
+/* background color of main page */
 #main_content_wrap {
   background: #F0F8E4;
   border-top: 1px solid #111;
@@ -359,6 +360,7 @@ Full-Width Styles
   padding-top: 40px;
 }
 
+/* background color of footer */
 #footer_wrap {
   background: #106B21;
 }
