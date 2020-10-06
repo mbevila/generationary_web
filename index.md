@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-Welcome to the page of Generationary, a project of the [Sapienza NLP Group](http://nlp.uniroma1.it), developed with the support of the awesome [MOUSSE ERC project](http://mousse-project.org/)!
+Welcome to the page of **Generationary**, a project of the [Sapienza NLP Group](http://nlp.uniroma1.it), developed with the support of the awesome [MOUSSE ERC project](http://mousse-project.org/)!
 
-Generationary is a neural **seq2seq model** which contextualizes a target expression in a sentence by **generating an *ad hoc* definition**. Our work is a **unified approach** to computational lexical-semantic tasks, encompassing state-of-the-art Word Sense Disambiguation, Definition Modeling and Word-in-Context.
+**Generationary** is a neural **seq2seq model** which contextualizes a target expression in a sentence by **generating an *ad hoc* definition**. Our work is a **unified approach** to computational lexical-semantic tasks, encompassing state-of-the-art Word Sense Disambiguation, Definition Modeling and Word-in-Context.
 
 To learn more, read our paper:
 
