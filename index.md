@@ -31,7 +31,7 @@ We are currently working to release software and reproduction materials. Stay tu
 
 ## Authors
         
-<table class="center">
+<table style="overflow-x:auto;" class="center">
 <tr>
 	<td>
 		<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" width="150" height="150">
