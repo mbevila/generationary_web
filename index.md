@@ -35,13 +35,13 @@ We are currently working to release software and reproduction materials. Stay tu
 <table class="author">
 <tr>
 	<td>
-		<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" class="author" height="150">
+		<img src="https://sapienzanlp.github.io/babelpic/imgs/bevilacqua.jpg" class="author">
 	</td>  
 	<td>
-		<img src="https://mbevila.github.io/generationary_web/res/maru.jpg" class="author" height="150"> 
+		<img src="https://mbevila.github.io/generationary_web/res/maru.jpg" class="author"> 
 	</td>
 	<td>
-		<img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" class="author" height="150">
+		<img src="https://sapienzanlp.github.io/babelpic/imgs/navigli.jpg" class="author">
 	</td>
 </tr>
 <tr>
