@@ -147,6 +147,11 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
+img.author {
+  min-width: 150px;
+  max-width: 150px;
+}
+
 p img {
   display: inline;
   margin: 0;
