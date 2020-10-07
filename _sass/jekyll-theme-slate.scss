@@ -240,7 +240,10 @@ table.author {
   margin-left:auto; 
   margin-right:auto;
   text-align: center;
-  overflow-x: scroll;
+}
+
+div.author {
+  overflow-x: auto;
 }
 
 th {
