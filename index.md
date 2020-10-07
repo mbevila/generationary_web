@@ -30,7 +30,8 @@ We are currently working to release software and reproduction materials. Stay tu
 ```
 
 ## Authors
-        
+
+<div class="author">
 <table class="author">
 <tr>
 	<td>
@@ -66,6 +67,7 @@ We are currently working to release software and reproduction materials. Stay tu
 	</td>
 </tr> 
 </table>
+</div>
 
 ## Acknowledgements
 The authors gratefully acknowledge the support of the [ERC Consolidator Grant MOUSSE No. 726487](http://mousse-project.org/) under the European Union's Horizon 2020 research and innovation programme.
